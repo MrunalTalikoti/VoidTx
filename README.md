@@ -8,6 +8,12 @@ VoidTx lets you pay up to 100 people in a single transaction instead of sending 
 
 **Use Cases:** Payroll, airdrops, prize distributions, DAO payments
 
+
+
+https://github.com/user-attachments/assets/721d511f-f0ee-4204-af02-4231ee56136f
+
+
+
 ## Key Features
 
 - 🛡️ **Fault Tolerant** - Failed payments don't stop the batch
